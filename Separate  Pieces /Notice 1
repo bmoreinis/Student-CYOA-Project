@@ -1,0 +1,4 @@
+// Notice.
+ alert ("[There are 4 different endings. Not typing a answer and pressing ok is equal to no response. In some cases it is equal to default. If you type in default the computer will automatically choose for you!!]");
+
+alert ("[Testing Story Beginning Now.(Beta Mode)]");

@@ -1,0 +1,13 @@
+//// Thoughts 2 {
+ if (buddy == "girl") alert ("[Wait.. THE matsuki? What does she want with me?]")
+
+ else if (buddy == "boy") alert ("[Wait.. THE matsuki? What does he want with me?]");
+
+ else if (buddy == "neutral") alert ("[Wait.. THE matsuki? What do they want with me?]");
+
+ else if (buddy == "default") alert ("[Wait.. THE matsuki? What does she want with me?]");
+
+ else if (buddy == "defualt") alert ("[Wait.. THE matsuki? What does she want with me?]");
+
+ else if (buddy == "") alert ("[Wait.. THE matsuki? What does she want with me?]");
+}

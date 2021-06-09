@@ -1,0 +1,8 @@
+// Thoughts 3
+ if (buddy == "girl") alert ("[Why is THE matsuki, the most popular girl in school want to know how my day went?]");
+ else if (buddy == "boy") alert ("[Why is THE matsuki, the most popular guy in school want to know how my day went?]");
+ else if (buddy == "neutral") alert ("[Why is THE matsuki, the most popular person in school want to know how my day went?]");
+ else if (buddy == "default") alert ("[Why is THE matsuki, the most popular girl in school want to know how my day went?]");
+ else if (buddy == "defualt") alert ("[Why is THE matsuki, the most popular girl in school want to know how my day went?]");
+ else if (buddy == "") alert ("[Why is THE matsuki, the most popular girl in school want to know how my day went?]"); 
+

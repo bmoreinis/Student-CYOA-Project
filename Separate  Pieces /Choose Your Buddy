@@ -1,0 +1,19 @@
+// choose testing buddy.
+var buddy = prompt ("Would you like your testing buddy's gender to be? Girl, Boy, Neutral, or default?");
+
+// female buddy
+ if (buddy == "Girl") alert ("You have choosen FEMALE");
+ else if (buddy == "girl") alert ("You have choosen FEMALE");
+
+// male buddy
+ else if (buddy == "Boy") alert ("You have choosen MALE");
+ else if (buddy == "boy") alert ("You have choosen MALE");
+
+// neutral buddy
+ else if (buddy == "Neutral") alert ("You have choosen NEUTRAL");
+ else if (buddy == "neutral") alert ("You have choosen NEUTRAL");
+
+// default buddy aka female 
+ else if (buddy == "default") alert ("You have choosen DEFAULT");
+ else if (buddy == "Default") alert ("You have choosen DEFAULT");
+ else if (buddy == "") alert ("You have choosen DEFAULT");

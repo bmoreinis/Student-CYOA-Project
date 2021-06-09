@@ -1,0 +1,98 @@
+// Question 2 response 1
+if (score1 == 2) {
+ alert (buddyName+": Oh sorry for bothering you... I'll leave you alone...");
+ alert ("[You Got 'The Bad Ending' ...]");
+ alert ("[3 More Endings Left]");
+ debugger;
+}
+
+// Question 2 response 2 
+else if (day == "") {
+  alert ("You: ...");
+  alert (buddyName+": not much of a talker are you?");
+  alert (buddyName+": Thats fine..! But urmm..");
+   
+}
+
+// Alert Day
+else alert ("You: "+day);
+
+// Question 2 response 2
+if (day == "Fine") alert (buddyName+":Well, I wish I could make it better... but mines was awsome!");
+
+if (day == "fine") alert (buddyName+": Well, I wish I could make it better... but mines was awsome!");
+
+// Question 2 response 3
+else if (day == "Great") alert (buddyName+": Mines was also great too!");
+
+else if (day == "great") alert (": Mines was also great too!");
+
+// Question 2 response 4
+else if (day == "Eh") alert (buddyName+": Awe... wish I were there to make it better../");
+
+else if (day == "eh") alert (buddyName+": Awe... wish I were there to make it better..");
+
+// Question 2 response 5
+else if (day == "so-so") alert (buddyName+": Well your own personal super hero has arrived! Cause I'm here to make it better!!");
+
+else if (day == "So-So") alert (buddyName+": Well your own personal super hero has arrived! Cause I'm here to make it better!!");
+
+else if (day == "so and so") alert (buddyName+": Well your own personal super hero has arrived! Cause I'm here to make it better!!");
+
+else if (day == "So and So") alert (buddyName+": Well your own personal super hero has arrived! Cause I'm here to make it better!!");
+
+else if (day == "So And So") alert(buddyName+": Well your own personal super hero has arrived! Cause I'm here to make it better!!");
+
+// Question 2 response 6
+else if (day == "good") alert (buddyName+": My day went well too!!");
+
+else if (day == "Good") alert (buddyName+": My day went well too!!");
+
+// Question 2 response 7
+else if (day == "Could be better") alert (buddyName+": Well your own personal super hero has arrived! Cause I'm here to make it better!!");
+
+else if (day == "could be better") alert (buddyName+": Well your own personal super hero has arrived! Cause I'm here to make it better!!");
+
+// Question 2 response 8
+else if (day == "Amazing") alert (buddyName+": My day was awsome too!!");
+
+else if (day == "amazing") alert (buddyName+": My day was awsome too!!");
+
+// Question 2 response 9
+else if (day == "Awsome") alert (buddyName+": My day was awsome too!!");
+
+else if (day == "awsome") alert (buddyName+": My day was awsome too!!");
+
+// Question 2 response 10
+else if (day == "Awsome Sauce") alert (buddyName+": My day was awsome too!!");
+
+else if (day == "Awsome sauce") alert (buddyName+": My day was awsome too!!");
+
+else if (day == "awsome sauce") alert (buddyName+": My day was awsome too!!");
+
+// Question 2 response 11
+else if (day == "cool") alert (buddyName+": Well guess what! My day was cool as well, were the cool kids now!");
+
+else if (day == "Cool") alert (buddyName+": Well guess what! My day was cool as well, were the cool kids now!");
+
+// Question 2 response 12
+else if (day == "Cool Beans") alert (buddyName+": Uhh.... Yeah! My day was cool beans as well!!");
+
+else if (day == "Cool beans") alert (buddyName+": Uhh.... Yeah! My day was cool beans as well!!");
+
+else if (day == "cool beans") alert (buddyName+": Uhh.... Yeah! My day was cool beans as well!!");
+
+// Question 2 response 13
+else if (day == "bad") alert (buddyName+": awe... I- Uh- I'm- I'm sorry... if theres anything I can do to make you feel better... I'll gladly do so!!");
+
+else if (day == "Bad") alert (buddyName+": awe... I- Uh- I'm- I'm sorry... if theres anything I can do to make you feel better... I'll gladly do so!!");
+
+// Question 2 response 14
+else if (day == "Horrible") alert (buddyName+": awe... I- Uh- I'm- I'm sorry... if theres anything I can do to make you feel better... I'll gladly do so!!");
+
+else if (day == "horrible") alert (buddyName+": awe... I- Uh- I'm- I'm sorry... if theres anything I can do to make you feel better... I'll gladly do so!!");
+
+// Question 2 response 15.
+else if (day == "Lovely") alert (buddyName+": I find you lovely-- I- Uh sorry forget I said that!! You heard nothing!!");
+
+else if (day == "lovely") alert (buddyName+": I find you lovely-- I- Uh sorry forget I said that!! You heard nothing!!");

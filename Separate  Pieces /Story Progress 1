@@ -1,0 +1,3 @@
+// story progess 1
+alert ("[Why is this random person approaching me?]");
+alert ("???: Oh sorry about that! My names "+buddyName+"!");

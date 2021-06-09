@@ -1,0 +1,14 @@
+// thoughts 1 { 
+ if (buddy == "girl") alert ("[Why does she look familiar?]");
+ else if (buddy == "Girl") alert ("[Why does she look familiar?]");
+
+ else if (buddy == "boy") alert ("[Why does he look familiar?]");
+ else if (buddy == "Boy") alert ("[Why does he look familiar?]");
+
+ else if (buddy == "neutral") alert ("[Why do they look familiar?]");
+ else if (buddy == "Neutral") alert ("[Why do they look familiar?]");
+
+ else if (buddy == "default") alert ("[ Why does she look familiar?]");
+ else if (buddy == "Default") alert ("[ Why does she look familiar?]");
+
+ else if (buddy == "") alert ("[ Why does she look familiar?]"); 

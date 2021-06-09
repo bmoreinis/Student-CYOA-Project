@@ -1,0 +1,73 @@
+// Question 2 response 0. + 1 points.
+if (day == "you") {
+ alert (buddyName+": Wait you care about how my day went?!");
+ alert (buddyName+" Whispers: eeeeeeee! senpai's finally noticed me!");
+ alert ("[Mitsuki's words were whispers in the wind. However I could still hear it all. But if so, is she really whispering? The face of matsuki was filled by nothing but joy. Seeing Matsuki all happy, made my heart feel warm inside. But as quickly as it comes, and the way its always been... That warmth vanished, cold and emptness filled that space once again.");
+}
+// you response 2
+else if (day == "fine you") {
+ alert (buddyName+": Wait you care about how my day went?!"); 
+ alert (buddyName+" Whispers: eeeeeeee! senpai's finally noticed me!");
+ alert ("[Mitsuki's words were whispers in the wind. However I could still hear it all. But if so, is she really whispering? The face of matsuki was filled by nothing but joy. Seeing Matsuki all happy, made my heart feel warm inside. But as quickly as it comes, and the way its always been... That warmth vanished, cold and emptness filled that space once again.");
+}
+
+// you response 3
+else if (day == "fine and you") {
+ alert (buddyName+": Wait you care about how my day went?!");
+ alert (buddyName+" Whispers: eeeeeeee! senpai's finally noticed me!");
+ alert ("[Mitsuki's words were whispers in the wind. However I could still hear it all. But if so, is she really whispering? The face of matsuki was filled by nothing but joy. Seeing Matsuki all happy, made my heart feel warm inside. But as quickly as it comes, and the way its always been... That warmth vanished, cold and emptness filled that space once again.");
+}
+// you response 4
+else if (day == "great and you") {
+ alert (buddyName+": Wait you care about how my day went?!");
+ alert (buddyName+" Whispers: eeeeeeee! senpai's finally noticed me!");
+ alert ("[Mitsuki's words were whispers in the wind. However I could still hear it all. But if so, is she really whispering? The face of matsuki was filled by nothing but joy. Seeing Matsuki all happy, made my heart feel warm inside. But as quickly as it comes, and the way its always been... That warmth vanished, cold and emptness filled that space once again.");
+}
+// you response 5
+else if (day == "good and you") {
+ alert (buddyName+": Wait you care about how my day went?!");
+ alert (buddyName+" Whispers: eeeeeeee! senpai's finally noticed me!");
+ alert ("[Mitsuki's words were whispers in the wind. However I could still hear it all. But if so, is she really whispering? The face of matsuki was filled by nothing but joy. Seeing Matsuki all happy, made my heart feel warm inside. But as quickly as it comes, and the way its always been... That warmth vanished, cold and emptness filled that space once again.");
+}
+// you response 6
+else if (day == " eh and you") {
+ alert (buddyName+": Wait you care about how my day went?!");
+ alert (buddyName+" Whispers: eeeeeeee! senpai's finally noticed me!");
+ alert ("[Mitsuki's words were whispers in the wind. However I could still hear it all. But if so, is she really whispering? The face of matsuki was filled by nothing but joy. Seeing Matsuki all happy, made my heart feel warm inside. But as quickly as it comes, and the way its always been... That warmth vanished, cold and emptness filled that space once again.");
+}
+// you response 7
+else if (day == "so so and you") {
+ alert (buddyName+": Wait you care about how my day went?!");
+ alert (buddyName+" Whispers: eeeeeeee! senpai's finally noticed me!");
+ alert ("[Mitsuki's words were whispers in the wind. However I could still hear it all. But if so, is she really whispering? The face of matsuki was filled by nothing but joy. Seeing Matsuki all happy, made my heart feel warm inside. But as quickly as it comes, and the way its always been... That warmth vanished, cold and emptness filled that space once again.");
+}
+// you response 8
+else if (day == "awsome and you") {
+ alert (buddyName+": Wait you care about how my day went?!");
+ alert (buddyName+" Whispers: eeeeeeee! senpai's finally noticed me!");
+ alert ("[Mitsuki's words were whispers in the wind. However I could still hear it all. But if so, is she really whispering? The face of matsuki was filled by nothing but joy. Seeing Matsuki all happy, made my heart feel warm inside. But as quickly as it comes, and the way its always been... That warmth vanished, cold and emptness filled that space once again.");
+}
+// you response 9
+else if (day == "amazing and you") {
+ alert (buddyName+": Wait you care about how my day went?!");
+ alert (buddyName+" Whispers: eeeeeeee! senpai's finally noticed me!");
+ alert ("[Mitsuki's words were whispers in the wind. However I could still hear it all. But if so, is she really whispering? The face of matsuki was filled by nothing but joy. Seeing Matsuki all happy, made my heart feel warm inside. But as quickly as it comes, and the way its always been... That warmth vanished, cold and emptness filled that space once again.");
+}
+// you response 10
+else if (day == "cool and you") {
+ alert (buddyName+": Wait you care about how my day went?!");
+ alert (buddyName+" Whispers: eeeeeeee! senpai's finally noticed me!");
+ alert ("[Mitsuki's words were whispers in the wind. However I could still hear it all. But if so, is she really whispering? The face of matsuki was filled by nothing but joy. Seeing Matsuki all happy, made my heart feel warm inside. But as quickly as it comes, and the way its always been... That warmth vanished, cold and emptness filled that space once again.");
+}
+// you response 11
+else if (day == "could be better and you") {
+ alert (buddyName+": Wait you care about how my day went?!");
+ alert (buddyName+" Whispers: eeeeeeee! senpai's finally noticed me!");
+ alert ("[Mitsuki's words were whispers in the wind. However I could still hear it all. But if so, is she really whispering? The face of matsuki was filled by nothing but joy. Seeing Matsuki all happy, made my heart feel warm inside. But as quickly as it comes, and the way its always been... That warmth vanished, cold and emptness filled that space once again.");
+}
+// you response 12
+else if (day == "lovely and you") {
+ alert (buddyName+": Wait you care about how my day went?!");
+ alert (buddyName+" Whispers: eeeeeeee! senpai's finally noticed me!");
+ alert ("[Mitsuki's words were whispers in the wind. However I could still hear it all. But if so, is she really whispering? The face of matsuki was filled by nothing but joy. Seeing Matsuki all happy, made my heart feel warm inside. But as quickly as it comes, and the way its always been... That warmth vanished, cold and emptness filled that space once again.");
+}

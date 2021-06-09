@@ -1,0 +1,27 @@
+// question 1 response 1. -1 points
+if (name == "") {
+  alert ("You: ...");
+
+ alert ("???: Thats fine you don't have to tell me! After all I'm just a random stranger aren't I? I bet it a pretty name anyway!");
+
+ alert ("[The once cheerful expression saddens a bit. Then quickly becomes cheerful once again.]"); 
+ score1++;
+}
+
+// question 1 response 2
+else if (name == "default") {
+ alert ("You: Taichi..");
+ alert ("???: hehe... a pretty name");
+ alert ("???: Anyways! Hi Taichi!");
+ score2++;
+ score3++;
+}
+// question 1 response 3
+else 
+ {
+ alert ("You: "+name);
+ alert ("???: hehe... a pretty name");
+ alert ("???: Anyways! Hi "+name+"!");
+ score2++;
+ score3++; 
+}

@@ -1,0 +1,22 @@
+Matsuki
+
+// Secret question response 1
+if (speakUp == "yes") alert ("You: What do you mean you know already?");
+
+else if (speakUp == "sure") alert ("You: What do you mean you know already?");
+
+else if (speakUp == "yeah") alert ("You: What do you mean you know already?");
+
+else if (speakUp == "yeah why not") alert ("You: What do you mean you know already?");
+
+else if (speakUp == "yup") alert ("You: What do you mean you know already?");
+
+else if (speakUp == "yep") alert ("You: What do you mean you know already?");
+
+else if (speakUp == "of course") alert ("You: What do you mean you know already?");
+
+else if (speakUp == "definitely") alert ("You: What do you mean you know already?");
+
+else if (speakUp == "fine") alert ("You: What do you mean you know already?");
+
+else if (speakUp == "yea") alert ("You: What do you mean you know already?")
